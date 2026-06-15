@@ -1,24 +1,24 @@
-<!-- Template:
 [![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+[![Followers](https://img.shields.io/github/followers/ImroZ-616?label=Followers&style=flat-square)](https://github.com/ImroZ-616)
+[![Repos](https://img.shields.io/badge/Repos-13-blue?style=flat-square)](https://github.com/ImroZ-616?tab=repositories)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+👋 Heyo, I'm Imroz (GitHub: ImroZ-616). I work on web services, demos, and hackathon projects with a focus on JavaScript/TypeScript and lightweight web apps.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+- 📍 Location: Tirupati, Andhra Pradesh , India
+- 🎓 Education: B-Tech Robotics and Automation (2025-2029)
+- 📅 Hacking Since: 2025
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- 🎲 terminal-bot — IRIS 4.0: a self-modifying WhatsApp bot that gives full terminal control of your Linux laptop, built with Node.js, Groq LLM, and whatsapp-web.js (my best project so far).
+
+- 🛠️ watchme — ESP32 Custom Smartwatch: ESP32-based watch with I2S mic & amp, SSD1306 display, MPU6050 raise-to-wake, Arduino firmware and a Python companion using Whisper + Ollama for voice-driven PTT interactions.( my next most anticipated project )
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+- 💻 Tech Stack: Node.js, Express, React, Next.js, Arduino, ESP32 , Linux Ubuntu 22.04 lts .
+- 🧰 Languages: JavaScript, TypeScript, Python
+- 🔭 Focus: Web development, APIs, lightweight tooling
+- ❤️ Interests: Open-source, machine learning, hackathons
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
