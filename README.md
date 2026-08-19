@@ -6,8 +6,8 @@
 👋 Heyo, I'm Imroz (GitHub: ImroZ-616). I work on web services, demos, and hackathon projects with a focus on JavaScript/TypeScript and lightweight web apps.
 
 - 📍 Location: Tirupati, Andhra Pradesh , India
-- 🎓 Education: B-Tech Robotics and Automation (2025-2029)
-- 📅 Hacking Since: 2025
+- 🎓 Education: B-Tech Robotics and Automation (2025-2029) NIT kurukshetra
+- 📅 Hacking Since: 2022
 
 ## Featured Projects
 - 🎲 terminal-bot — IRIS 4.0: a self-modifying WhatsApp bot that gives full terminal control of your Linux laptop, built with Node.js, Groq LLM, and whatsapp-web.js (my best project so far).
